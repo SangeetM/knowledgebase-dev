@@ -1,0 +1,17 @@
+--- 
+title: "Introduction to useR! Knowledgebase"
+author: "Sangeet Moy Das"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rconf/userknowledgebase
+url: 'https://gitlab.com/rconf/userknowledgebase/-/merge_requests/new?merge_request%5Bsource_branch%5D=v21.05.01'
+description: "Everything you need (and nothing more) to start a useR! Conference."
+---
+
+# Preface
+
+This is the very first part of the book.
