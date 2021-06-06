@@ -35,3 +35,4 @@ contribute-to-knowledgebase
 conclusion
 appendix
 reference
+changelogs

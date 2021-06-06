@@ -11,3 +11,7 @@
 * [blog post by the useR! 2021 diversity team](https://user2021.r-project.org/blog/2021/02/17/preparing-for-an-accessible-conference/)
 * [satRdays knowledgebase](https://knowledgebase.satrdays.org/)
 * [DISCOVER cookbook](https://discover-cookbook.numfocus.org/)
+
+## Changelogs
+
+TBD
