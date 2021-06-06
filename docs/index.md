@@ -1,7 +1,7 @@
 --- 
 title: "Introduction to useR! Knowledgebase"
 author: "Sangeet Moy Das"
-date: "`r Sys.Date()`"
+date: "2021-06-06"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]

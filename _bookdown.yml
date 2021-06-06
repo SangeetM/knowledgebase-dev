@@ -2,6 +2,7 @@ book_filename: "useR! Knowledgebase"
 delete_merged_file: true
 repo: https://gitlab.com/rconf/userknowledgebase/
 rmd_files:
+  - index.Rmd
   - 01-Introduction.Rmd
   - 02-About-useR!.Rmd
   - 03-TLDR-Checklist.Rmd
