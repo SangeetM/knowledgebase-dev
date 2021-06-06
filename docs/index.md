@@ -1,5 +1,5 @@
 --- 
-title: "Introduction to useR! Knowledgebase"
+title: "useR! Knowledgebase"
 author: "Sangeet Moy Das"
 date: "2021-06-06"
 site: bookdown::bookdown_site

@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  css: css/style.css
+  css: assets/style.css
   split_by: chapter
   config:
     toc:
@@ -8,4 +8,9 @@ bookdown::gitbook:
         <li class="toc-logo"><a href="./"><img src="assets/user-logo.png"></a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    download: ["pdf"]
+    download: ["rmd"]
+    sharing:
+      github: yes
+      facebook: no
+      twitter: yes
+      all: no
