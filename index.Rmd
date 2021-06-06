@@ -15,4 +15,4 @@ always_allow_html: yes
 
 # Preface {-}
 
-This is the very first part of the book.
+This is the very first part of the book. This will detail out the obvious gap that we are trying to solve.
