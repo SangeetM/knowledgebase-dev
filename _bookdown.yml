@@ -1,20 +1,22 @@
 book_filename: "useR! Knowledgebase"
 delete_merged_file: true
-rmd_files:
-  - index.Rmd
-  - 01-Introduction.Rmd
-  - 02-About-useR!.Rmd
-  - 03-TLDR-Checklist.Rmd
-  - 04-Before-the-Conference.Rmd
-  - 05-During-the-Conference.Rmd
-  - 06-After-the-Conference.Rmd
-  - 07-FAQs.Rmd
-  - 08-Contribute.Rmd
-  - 09-Conclusion.Rmd 
-  - 10-References.Rmd
-output_dir: "docs"
 language:
   ui:
     chapter_name: 'Chapter '
-clean: [packages.bib, bookdown.bbl]
 new_session: yes
+rmd_files: [
+  "index.Rmd",
+  
+  "01-Introduction.Rmd",
+  "02-About-useR!.Rmd",
+  "03-TLDR-Checklist.Rmd",
+  "04-Before-the-Conference.Rmd",
+  "05-During-the-Conference.Rmd",
+  "06-After-the-Conference.Rmd",
+  "07-FAQs.Rmd",
+  "08-Contribute.Rmd",
+  "09-Conclusion.Rmd",
+  
+  "10-Appendix.Rmd"
+  ]
+output_dir: "docs"

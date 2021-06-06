@@ -1,4 +1,6 @@
-# References
+# Appendix
+
+## Reference
 
 * [Previous Conferences](https://www.r-project.org/conferences/)
 * [Bookdown homepage](https://bookdown.org/)
