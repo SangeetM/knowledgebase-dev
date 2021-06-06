@@ -1,3 +1,0 @@
-# TL;DR Checklist
-
-TBD
