@@ -1,4 +1,5 @@
 book_filename: "useR! Knowledgebase"
+output_dir: "docs"
 delete_merged_file: true
 language:
   ui:
@@ -19,4 +20,3 @@ rmd_files: [
   
   "10-Appendix.Rmd"
   ]
-# output_dir: "docs"
