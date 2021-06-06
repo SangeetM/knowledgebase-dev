@@ -15,6 +15,13 @@ It is currently tested locally and have not been deployed. To see the local vers
 1. Execute `bookdown::render_book("index.Rmd")` to build the `bookdown` site
 1. Navigate to `/docs/` and open `index.html` to view this version locally
 
+### Build a Deployable Version
+
+1. Make your required changes
+1. Render the site locally `rmarkdown::render_site(encoding = 'UTF-8')`
+1. Remove unnecessary files `bookdown::clean_book()`, although CI/CD will take care of this if you miss
+1. Push a version to master / main branch and it will get deployed
+
 Once a initial version is complete, future deployment will be done via Travis CI:
 
 1. Any push to master will build the book and its content will be found in the `docs` directory.
